@@ -1,2 +1,2 @@
 # html-portfolio
-WebDev Project
+WebDev Project, just baby steps of html
