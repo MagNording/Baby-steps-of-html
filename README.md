@@ -1,1 +1,1 @@
-# WebDev Project, just baby steps of html
+# WebDev Project, first project of a course in webdev
